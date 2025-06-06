@@ -40,9 +40,9 @@ GIT_TOKEN = os.getenv("GIT_TOKEN", None)
 # 🔗 Support Links
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-SUPPORT_CHANNEL = os.getenv("SUPPORT_CHANNEL", "https://t.me/ShrutiBots")
-SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/ShrutiBotSupport")
-PRIVACY_LINK = os.getenv("PRIVACY_LINK", "https://graph.org/Privacy-Policy-05-01-30")
+SUPPORT_CHANNEL = os.getenv("SUPPORT_CHANNEL", "https://t.me/KING_BOT_UPDATE")
+SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/+6BADWq1ODA9mZjY1")
+PRIVACY_LINK = os.getenv("PRIVACY_LINK", "https://t.me/+QQCdwa0DffM1MTk1")
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # ⏱️ Duration & Playlist Settings
@@ -85,18 +85,18 @@ AUTO_LEAVING_ASSISTANT = bool(os.getenv("AUTO_LEAVING_ASSISTANT", False))
 # 🖼️ Image URLs (Can be customized)
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-START_IMG_URL = os.getenv("START_IMG_URL", "https://files.catbox.moe/eehxb4.jpg")
-PING_IMG_URL = os.getenv("PING_IMG_URL", "https://files.catbox.moe/eehxb4.jpg")
-PLAYLIST_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
-STATS_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
-TELEGRAM_AUDIO_URL = "https://files.catbox.moe/eehxb4.jpg"
-TELEGRAM_VIDEO_URL = "https://files.catbox.moe/eehxb4.jpg"
-STREAM_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
-SOUNCLOUD_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
-YOUTUBE_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
+START_IMG_URL = os.getenv("START_IMG_URL", "https://graph.org/file/62915543accd7f73f6ba8-27d8717394eeffb66e.jpg")
+PING_IMG_URL = os.getenv("PING_IMG_URL", "https://graph.org/file/09b946c5d70dc8ce4a1c4-49ff074cf9b450ac31.jpg")
+PLAYLIST_IMG_URL = "https://graph.org/file/d060c51daec3860bb6a95-357ad18a047355c987.jpg"
+STATS_IMG_URL = "https://graph.org/file/6613ef6738c960e0ae44a-ed5ba44489b3628428.jpg"
+TELEGRAM_AUDIO_URL = "https://graph.org/file/3ac0f6989e47aeeb022c6-5699237a9132b3057c.jpg"
+TELEGRAM_VIDEO_URL = "https://graph.org/file/659e02d806dbee4ea4eeb-9954699585330c6425.jpg"
+STREAM_IMG_URL = "https://graph.org/file/46c27f894523988fc2420-7b3ad7565f32f46e54.jpg"
+SOUNCLOUD_IMG_URL = "https://graph.org/file/9cfee50c2d7f496ad3f61-bf8e1f3a9311432039.jpg"
+YOUTUBE_IMG_URL = "https://graph.org/file/2713195fbea01d62705f3-a797e40a66efc6f982.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://graph.org/file/c908758e432a67dde184e-254bd8ed9beab9f996.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://graph.org/file/7d091e3f413de80a9146d-d73a7ccc1b886a4122.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://graph.org/file/358a184b3321f70b0f144-c7cbfb0cd2c02f97c4.jpg"
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # 🔐 User & Bot State Stores
